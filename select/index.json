@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "rockstar (feat. 21 Savage)",
   "base_artist": "Post Malone",
-  "createdAt": "2026-02-19T11:17:45.811314Z",
+  "createdAt": "2026-02-19T11:24:48.072008Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -163,86 +163,6 @@
       "artist": "Mimiks",
       "has_synced": true,
       "path": "select/20_Rockstar_(feat._Aleksej)_Mimiks.lrc"
-    },
-    {
-      "id": "lrclib_21",
-      "source": "lrclib",
-      "title": "rockstar (feat. 21 Savage)",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/21_rockstar_(feat._21_Savage)_Post_Malone.lrc"
-    },
-    {
-      "id": "lrclib_22",
-      "source": "lrclib",
-      "title": "rockstar (feat. 21 Savage)",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/22_rockstar_(feat._21_Savage)_Post_Malone.lrc"
-    },
-    {
-      "id": "lrclib_23",
-      "source": "lrclib",
-      "title": "Rockstar (feat. 21 Savage)",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/23_Rockstar_(feat._21_Savage)_Post_Malone.lrc"
-    },
-    {
-      "id": "lrclib_24",
-      "source": "lrclib",
-      "title": "rockstar (feat. 21 Savage)",
-      "artist": "Song",
-      "has_synced": true,
-      "path": "select/24_rockstar_(feat._21_Savage)_Song.lrc"
-    },
-    {
-      "id": "lrclib_25",
-      "source": "lrclib",
-      "title": "Rockstar (feat. 21 Savage)",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/25_Rockstar_(feat._21_Savage)_Post_Malone.lrc"
-    },
-    {
-      "id": "lrclib_26",
-      "source": "lrclib",
-      "title": "rockstar (feat. 21 Savage)",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/26_rockstar_(feat._21_Savage)_Post_Malone.lrc"
-    },
-    {
-      "id": "lrclib_27",
-      "source": "lrclib",
-      "title": "rockstar (feat. 21 Savage)",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/27_rockstar_(feat._21_Savage)_Post_Malone.lrc"
-    },
-    {
-      "id": "lrclib_28",
-      "source": "lrclib",
-      "title": "rockstar (feat. 21 Savage)",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/28_rockstar_(feat._21_Savage)_Post_Malone.lrc"
-    },
-    {
-      "id": "lrclib_29",
-      "source": "lrclib",
-      "title": "rockstar feat 21 Savage",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/29_rockstar_feat_21_Savage_Post_Malone.lrc"
-    },
-    {
-      "id": "lrclib_30",
-      "source": "lrclib",
-      "title": "Rockstar Feat. 21 Savage",
-      "artist": "Post Malone",
-      "has_synced": true,
-      "path": "select/30_Rockstar_Feat._21_Savage_Post_Malone.lrc"
     },
     {
       "id": "petitlyrics_1",
